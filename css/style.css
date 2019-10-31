@@ -1,0 +1,40 @@
+
+nav {background-color: darkgrey;}
+
+.nav-titles
+{padding: 15px;
+display: inline-block;
+background-color: lightgrey;
+}
+.sidebar
+{width: 29%;
+background-color: lightblue;
+float: left;
+height: 100vh;
+}
+.main-content {width: 70%;
+background-color: #fdf0d5;
+float: right;
+height: 100vh;
+}
+.sidebar-topic1 {
+    background-color: #29335c;
+    height: 280px;
+    color: white;
+    text-align: left;
+    padding: 30px;
+
+}
+
+.sidebar-topic2 {background-color: #e4572e;
+    height: 70%;
+}
+img {height: 150px;
+    margin: 0 10px;
+    border-radius: 4px;
+}
+body {margin:0}
+
+p {text-align:center;}
+
+h1 {text-align: center;}
